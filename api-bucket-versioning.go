@@ -23,7 +23,7 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/minio/minio-go/v7/pkg/s3utils"
+	"github.com/molei20021/minio-go/v7/pkg/s3utils"
 )
 
 // SetBucketVersioning sets a bucket versioning configuration
