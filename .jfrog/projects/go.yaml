@@ -1,0 +1,5 @@
+version: 1
+type: go
+deployer:
+   repo: go-sf-local
+   serverId: rt-server
